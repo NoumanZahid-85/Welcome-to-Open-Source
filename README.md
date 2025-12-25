@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://github.com/NoumanZahid-85">
+                    <img src="https://avatars.githubusercontent.com/u/151716630?s=400&u=05dc2da0bce367222e39936587436207f4e39949&v=4" width="100px;"
+                        alt="Nouman Zahid" />
+                    <br />
+                    <sub>
+                        <b>Nouman Zahid</b>
+                    </sub>
+                </a>
+            </td>    
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
